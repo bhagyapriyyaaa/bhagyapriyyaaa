@@ -1,7 +1,11 @@
 ## Hi there 👋
 <!--
 **bhagyapriyyaaa/bhagyapriyyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+![Welcome GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+# Your Project Title
+Description of your project goes here.
+
 
 Here are some ideas to get you started:
 
