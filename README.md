@@ -22,7 +22,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bhagya-priya-murmu-72903b256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
