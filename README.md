@@ -3,8 +3,8 @@
 </div>
 
 # 👋 Hi there, I'm Bhagya Priya Murmu!
-🎓 **College Student | Developer | Tech Enthusiast**  
-💻 Exploring **Web Development, Artificial Intelligence and Machine Learning**  
+🎓 *College Student | Developer | Tech Enthusiast*  
+💻 Exploring *Web Development, Artificial Intelligence and Machine Learning*
 🚀 Always curious to learn, build, and grow!  
 ---
 ## 🛠️ Skills & Tools
